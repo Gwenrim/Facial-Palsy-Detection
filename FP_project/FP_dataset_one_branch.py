@@ -132,9 +132,6 @@ class FP_Dataset_one_branch(Dataset):
         return X, Geo, stat, y
 
 
-
-
-
 if __name__ == '__main__':
     ## Just for Test...
     my_dataset = FP_Dataset_one_branch(frame_num=5, k_in_5=1, transform=None, mode='train')
