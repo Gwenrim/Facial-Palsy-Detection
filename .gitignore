@@ -1,6 +1,11 @@
 *.jpg
 *.png
 
+/FP_project/__pycache__/
+/FP_project/Marlin_ckps/
+/FP_project/temp_save/
+/FP_project/Vis/
+
 /Xihehe_Data/data/
 /Xihehe_Data/data_bad/
 /Xihehe_Data/processed_data/
